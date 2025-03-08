@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/bf9ec6f1-a0a8-4343-bdaf-4c5aa43aa135).
+![Header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif).
 
 <h1 align="center">I'm Omar</h1>
 <h3 align="center">A passionate FullStack developer</h3>
